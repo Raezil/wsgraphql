@@ -6,7 +6,7 @@ import (
 
 	"github.com/graphql-go/graphql"
 
-	"github.com/eientei/wsgraphql/v1/mutable"
+	"github.com/Raezil/wsgraphql/v1/mutable"
 	"github.com/graphql-go/graphql/language/ast"
 )
 

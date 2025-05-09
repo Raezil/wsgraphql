@@ -5,8 +5,8 @@ import (
 	"context"
 	"regexp"
 
-	"github.com/eientei/wsgraphql/v1"
-	"github.com/eientei/wsgraphql/v1/apollows"
+	"github.com/Raezil/wsgraphql/v1"
+	"github.com/Raezil/wsgraphql/v1/apollows"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"
@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	instrumentationName    = "github.com/eientei/wsgraphql/v1/compat/otelwsgraphql"
+	instrumentationName    = "github.com/Raezil/wsgraphql/v1/compat/otelwsgraphql"
 	instrumentationVersion = "1.0.0"
 )
 

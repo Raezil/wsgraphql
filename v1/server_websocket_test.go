@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/eientei/wsgraphql/v1/apollows"
+	"github.com/Raezil/wsgraphql/v1/apollows"
 	"github.com/eientei/wsgraphql/v1/mutable"
 	"github.com/gorilla/websocket"
 	"github.com/graphql-go/graphql"
