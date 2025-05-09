@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/Raezil/wsgraphql/v1/apollows"
-	"github.com/eientei/wsgraphql/v1/mutable"
+	"github.com/Raezil/wsgraphql/v1/mutable"
 	"github.com/gorilla/websocket"
 	"github.com/graphql-go/graphql"
 	"github.com/stretchr/testify/assert"
